@@ -1,17 +1,19 @@
 {
   "feedback": [
     {
-      "id": 1,
-      "rating": 10,
-      "text": "This is feedback item 1 from the backend"
-    },
-    {
-      "id": 2,
-      "rating": 6,
-      "text": "This is feedback item 2 from the backend"
-    },
-    {
+      "text": "Attentive and completed on time",
+      "rating": 8,
       "id": 3
+    },
+    {
+      "text": "Blown away with your patience and ability to understand my vision",
+      "rating": 10,
+      "id": 4
+    },
+    {
+      "text": "Ability to go above and beyond to accommodate the needs of customers.",
+      "rating": 9,
+      "id": 5
     }
   ]
 }
